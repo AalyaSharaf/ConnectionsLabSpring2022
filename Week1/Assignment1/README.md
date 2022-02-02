@@ -1,6 +1,6 @@
 # WEEK 1 ASSIGNMENT 1
 
-Link to project [here]()!
+Link to project [here](https://aalyasharaf.github.io/ConnectionsLabSpring2022/Week1/Assignment1/Project/index.html)!
 
 ## Project Idea
 
