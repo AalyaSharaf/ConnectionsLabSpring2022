@@ -11,8 +11,7 @@ Last Fall, I took a class called A.rt I.ntel with Professor Michael Ang. In this
 My idea relied on music. The first thought that came to mind was the differnt genres of music. Normally, when listening to a song, you are able to identify and distinguish the category, or genre, that a song falls into based solely off of the melody, or the sounds that we hear in general. What would happen if something auditory was turned visual? Would the distinction be as instictual? I was able to input song lyrics and titles from different genres and the results were extraordinary!
 
 ## Wireframing / Website Development
-
-(insert wireframe images)
+![](wireFrameImages/WF1.jpg) ![](wireFrameImages/WF2.jpg)
 
 This was the general idea for my project. I knew I wanted a single scroll... I also wanted it to be extremely simple, hence the minimal amount of text on the first page. When it came to the actual website development, I broke it down into a few steps:
 
