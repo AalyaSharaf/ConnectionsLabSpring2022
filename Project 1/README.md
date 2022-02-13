@@ -14,4 +14,4 @@ I feel like the whole concept of greek mythology could be extremely aestheticall
 
 <img src="img/inspo1.jpeg" width="300" height="300"> <img src="img/inspo2.jpeg" width="300" height="300"> <img src="img/inspo3.jpeg" width="300" height="300"> <img src="img/inspo4.jpeg" width="300" height="300">
 
-
+## Intial Coding Process
