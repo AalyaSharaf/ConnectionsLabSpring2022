@@ -12,4 +12,6 @@ Despite being rather excited with my idea, I am still struggling with how to imp
 
 I feel like the whole concept of greek mythology could be extremely aesthetically pleasing. I also wanted to go down an animatin/cartoon route if I consider my audience to be children, so here are also a few images I found as inspiration:
 
+<img src="img/inspo1.jpeg" width="300" height="300"> <img src="img/inspo2.jpeg" width="300" height="300"> <img src="img/inspo3.jpeg" width="300" height="300"> <img src="img/inspo4.jpeg" width="300" height="300">
+
 
