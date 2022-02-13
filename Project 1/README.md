@@ -8,7 +8,7 @@ Greek mythology has always been something that has intrigued me. As a kid, readi
 
 Despite being rather excited with my idea, I am still struggling with how to implement it on the web. I have a few ideas on how I want the information to be displayed, but I feel like because I do not have much experience with javascript, I am worried about how the end result will turn out. Regardless, you have to begin somewhere, so here are a few sketches I had of how I envisioned the page to be (Note: I can't draw!):
 
-![](img/brainstorm1.jpg) ![](img/brainstorm2.jpg)
+<img src="img/brainstorm1.jpg" width="500" height="400"> <img src="img/brainstorm2.jpg" width="500" height="400">
 
 I feel like the whole concept of greek mythology could be extremely aesthetically pleasing. I also wanted to go down an animatin/cartoon route if I consider my audience to be children, so here are also a few images I found as inspiration:
 
