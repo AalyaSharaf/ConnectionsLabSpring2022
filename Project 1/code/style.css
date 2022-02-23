@@ -1,0 +1,187 @@
+
+/* Main Page Style */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Cinzel', serif;
+}
+
+/* Home Page and Timeline Styles */
+.container{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0;
+    background-color: #1e1f22;
+    color: white;
+}
+
+.container_home{
+    width: 100%;
+    height: 100vh;
+    padding-top: 22%;
+    background-image: url("./img/red_background.jpg");
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container_home-title{
+    width: 80%;
+    font-size: 50px;
+    font-weight: 700;
+    display: flex;
+}
+
+.container_home-text{
+    display: flex;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 30px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+.container_timeline{
+    width: 90%;
+    height: auto;
+    max-width: 800px;
+    margin: 0;
+    position: relative;
+}
+
+
+.container_timeline ul{
+    list-style: none;
+}
+
+.container_timeline ul li{
+    padding: 0px;
+    background-color: #1e1f22;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.container_timeline ul li:last-child{
+    margin-bottom: 0;
+}
+
+
+.container_timeline-content h1{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.container_timeline-content img{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+.container_timeline-info{
+    padding: 40px;
+}
+
+.container_timeline-info ul li{
+    margin: 0;
+}
+
+.container_timeline-info ul li:last-child{
+    margin-bottom: 10px;
+}
+
+.abilities_list-text{
+    text-indent: 45px;
+}
+
+p{
+    opacity: 0;
+    position: relative;
+    bottom: -40px;
+    transition: all 0.8s ease-out;
+}
+
+img{
+    opacity: 0;
+    position: relative;
+    bottom: -40px;
+    transition: all 0.8s ease-out;
+}
+
+h1{
+    opacity: 0;
+    position: relative;
+    bottom: -40px;
+    transition: all 0.8s ease-out;
+}
+
+.show{
+    opacity: 1;
+    bottom: 0;
+}
+
+
+/* REMINDER: Add this media thing for the rest of the page, and not just for the timeline! */
+@media only screen and (min-width: 768px){
+    
+    /* Adds the timeline in the middle of the screen */
+    .container_timeline::before{
+        content: '';
+        position: absolute;
+        height: 100%;
+        width: 2px;
+        left:50%;
+        transform: translateX(-50%);
+        background-color: gray;
+    }
+    
+    /* Allows the info to be displayed side by side */
+    .container_timeline-content{
+        display: flex;
+        width: 100%;
+        margin-bottom: 50px;
+        position: relative;
+    }
+
+    /* Styling the images on the timeline */
+    .container_timeline-images{
+        margin: 0;
+        width: 50%;
+        margin-bottom: 50px;
+        position: relative;
+    }
+
+    /* Styling the info on the timeline */
+    .container_timeline-info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: auto;
+        width: 50%;
+        position: relative;
+    }
+    .container_timeline-info p{
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        width: 100%;
+        margin-bottom: 10px;
+        position: relative;
+        font-size: 16px;
+        line-height: 25px;
+    }
+}
