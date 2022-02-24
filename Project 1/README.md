@@ -1,5 +1,7 @@
 # Project 1 - Data Visualization
 
+Project Link: https://aalyasharaf.github.io/ConnectionsLabSpring2022/Project%201/code/
+
 ## Project Brief
 
 Greek mythology has always been something that has intrigued me. As a kid, reading books was not something that I did often, in fact, I found it quite difficult to finish reading a few chapters, let alone an entire book. Despite all that, I still vividly remember one of the first book series , that consisted of not one, but 5 books, I ever completed and it was the "Percy Jackson and the Olympians" series. That is why, whe I saw a file that consisted of all the different greek gods, I immideately gravitated to it because it brought me back to all those memories. As a kid, I used to visualize a lot, especially when reading, so when all these differnt greek gods were being mentioned in this series, I could not help but wonder what they would look like, what their personality traits are, etc... That is why, I feel like creating a website that displays such information could be extremely beneficial to any future little dreamers who want to have a space to see a manifestation of their dream world.  
