@@ -1,4 +1,4 @@
-# Homeword - Node Implimentation
+# Homework - Node Implimentation
 
 ## Coding Process
 
