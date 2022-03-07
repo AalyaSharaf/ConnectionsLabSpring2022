@@ -16,7 +16,7 @@ To go over what I did, I made sure that my information was fetched in my index.j
 
 ### Using "app.js" (Front-End)
 
-This part I struggled with quite a lot. I feel like I had just began to wrap my head around javascript and how to make that work, so with the added element of being responsible for your own server, I just find out too compolicated. I spent countless hours trying to make the project work, but I judt did not know how to go about it. 
+This part I struggled with quite a lot. I feel like I had just began to wrap my head around javascript and how to make that work, so with the added element of being responsible for your own server, I just feel I struggled with achieving what I wanted to. I spent countless hours trying to make the project work, but I judt did not know how to go about it. 
 
 My intention with this project was to have:
 1. The input box be used to search for a guitar company
