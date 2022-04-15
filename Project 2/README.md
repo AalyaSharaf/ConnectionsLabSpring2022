@@ -8,6 +8,6 @@ For the glitch website, for some reason it would not allow me to change project 
 
 ## Documentation
 
-Here is a link the my documentation in pdf form:
+[Here](https://github.com/AalyaSharaf/ConnectionsLabSpring2022/blob/main/Project%202/Project2Documentation.pdf) is a link the my documentation in pdf form. It is also uploaded to this repository under the title "Project2Documentation.pdf".
 
 Please email me if the link does not seem to be working for some reason, and I will be quick to respond!
