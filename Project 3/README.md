@@ -4,10 +4,12 @@
 
 ## Website Link
 
-Link to website: https://cl-musicroom.glitch.me/
+Link to website: 
+https://cl-musicroom.glitch.me/
 
-Link to Project Code: https://github.com/AalyaSharaf/CL-Project3-MusicRoom
+Link to Project Code: 
+https://github.com/AalyaSharaf/CL-Project3-MusicRoom
 
 ## Documentation
 
-Link to Documentation: 
+Link: https://github.com/AalyaSharaf/ConnectionsLabSpring2022/blob/main/Project%203/Documentation/Project3Documentation.pdf
